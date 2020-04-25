@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/mouradaniel/node-with-react/issues"
   },
-  "homepage": "https://github.com/mouradaniel/node-with-react#readme"
+  "homepage": "https://github.com/mouradaniel/node-with-react#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
