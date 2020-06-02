@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/mouradaniel/node-with-react#readme",
   "dependencies": {
+    "cookie-session": "^1.4.0",
     "express": "^4.17.1",
     "mongoose": "^5.9.10",
     "nodemon": "^2.0.3",
